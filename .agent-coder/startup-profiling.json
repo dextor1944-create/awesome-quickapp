@@ -1,0 +1,92 @@
+{
+  "capturedAt": "2026-08-08T03:04:35.838Z",
+  "extensionVersion": "1.3.371",
+  "activationTotalMs": 137.25,
+  "entries": [
+    {
+      "name": "API key cache warm-up",
+      "startOffsetMs": 7.08,
+      "durationMs": 33990.83
+    },
+    {
+      "name": "Licensing state (Lite/Pro)",
+      "startOffsetMs": 7.71,
+      "durationMs": 0.14
+    },
+    {
+      "name": "Licence status bar",
+      "startOffsetMs": 10,
+      "durationMs": 0.6
+    },
+    {
+      "name": "Licence silent reverify",
+      "startOffsetMs": 11.49,
+      "durationMs": 33987.86
+    },
+    {
+      "name": "Agent controller construction",
+      "startOffsetMs": 11.74,
+      "durationMs": 23.2
+    },
+    {
+      "name": "SlopGuard status bar",
+      "startOffsetMs": 35.26,
+      "durationMs": 4.81
+    },
+    {
+      "name": "Analysis status bar",
+      "startOffsetMs": 40.71,
+      "durationMs": 0.41
+    },
+    {
+      "name": "Platform integration runtime",
+      "startOffsetMs": 41.23,
+      "durationMs": 4.24
+    },
+    {
+      "name": "Workspace infrastructure (IPC, LM tools, file watcher)",
+      "startOffsetMs": 45.91,
+      "durationMs": 13.93
+    },
+    {
+      "name": "Diff content provider",
+      "startOffsetMs": 60.15,
+      "durationMs": 1.48
+    },
+    {
+      "name": "Chat view provider (sidebar webview)",
+      "startOffsetMs": 61.82,
+      "durationMs": 1.36
+    },
+    {
+      "name": "Workspace index startup task creation",
+      "startOffsetMs": 63.4,
+      "durationMs": 0.48
+    },
+    {
+      "name": "Chat participant (@agent-coder)",
+      "startOffsetMs": 64.16,
+      "durationMs": 3
+    },
+    {
+      "name": "Symbol hover provider",
+      "startOffsetMs": 67.4,
+      "durationMs": 1.25
+    },
+    {
+      "name": "Command registration",
+      "startOffsetMs": 68.89,
+      "durationMs": 63.37
+    },
+    {
+      "name": "Workspace index restore/reconciliation",
+      "startOffsetMs": 133.98,
+      "durationMs": 42133.78
+    },
+    {
+      "name": "Audit retention pruning",
+      "startOffsetMs": 134.78,
+      "durationMs": 17919.82
+    }
+  ]
+}
